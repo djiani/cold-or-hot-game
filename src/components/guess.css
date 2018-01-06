@@ -1,0 +1,10 @@
+.guess{
+  height: 300px;
+  width: 300px;
+  background-color: gray;
+  border:1px solid black;
+}
+
+.counter_Guess{ 
+color: yellow;
+}

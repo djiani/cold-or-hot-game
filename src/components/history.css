@@ -1,0 +1,17 @@
+.history{
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  border:1px solid black;
+  overflow: auto;
+}
+
+.list{
+  list-style-type: none;
+}
+.list li{
+  display: inline-block;
+  margin: 5px;
+  padding: 2px;
+  background-color: yellow;
+}
